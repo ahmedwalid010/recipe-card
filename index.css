@@ -1,0 +1,125 @@
+
+body{
+    background-color:  hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@font-face{
+font-family: young-srif;
+src: url(YoungSerif-Regular.ttf);
+}
+@font-face {
+    font-family: outfit;
+    src: url(Outfit-VariableFont_wght.ttf);
+}
+main{
+width: 450px;
+border-radius: 10px;
+background-color:hsl(0, 0%, 100%) ;
+padding: 20px;
+
+}
+img{
+    border-radius: 5px;
+    width: 100%;
+    height: 170px;
+}
+h1{
+    font-size: 27px;
+    font-weight:400 ;
+   font-family: young-srif;
+}
+.an{
+font-family: outfit;
+font-size: 13px;
+color:  hsl(24, 5%, 18%);
+}
+.prep{
+border-radius: 5px;
+background-color:   hsl(30, 18%, 87%)  ;
+margin-left: 10px;
+height: 150px;
+
+}
+.p-t{
+    margin-left: 15px;
+   padding-top: 20px;
+   font-family:outfit ;
+   font-size: 19px;
+   color:  hsl(332, 51%, 32%);
+}
+ul li{
+    padding: 5px;
+    font-family: outfit;
+    font-size: 13.5px;
+    color: hsl(24, 5%, 18%);
+}
+span{
+    font-size: 15;
+    color: hsl(24, 5%, 18%);
+    font-weight: 600;
+    margin-left: 5px;
+}
+.Ingredients{
+    color:  hsl(14, 45%, 36%) ;
+    font-size: 23px;
+    margin-left: 10px;
+    font-family:young-srif ;
+    font-weight: 400;
+}
+ ul li {
+  color: hsl(30, 10%, 34%);
+}
+.Instructions{
+    font-size: 23px;
+    margin-left: 10px;
+    font-family:young-srif ;
+    font-weight: 400;
+    color:  hsl(14, 45%, 36%) ;
+}
+.Nutrition{
+    font-size: 23px;
+    margin-left: 10px;
+    font-family:young-srif ;
+    font-weight: 400;
+    color:  hsl(14, 45%, 36%) ;
+}
+.p-n{
+    color:  hsl(30, 10%, 34%);
+    font-family: outfit;
+    
+}
+.cpf{
+    color: hsl(14, 45%, 36%);
+    margin-left: 250px;
+    
+    
+}
+h4{
+    margin-left: 20px;
+    color:  hsl(30, 10%, 34%);
+    font-family: outfit;
+    font-size: 14px;
+    font-weight: 700;
+} 
+.cps{
+    color: hsl(14, 45%, 36%);
+    margin-left: 220px; 
+}
+.cpp{
+    color: hsl(14, 45%, 36%);
+    margin-left: 223px;
+}
+.cpc{
+    color: hsl(14, 45%, 36%);
+    margin-left: 236px;
+}
+hr{
+    color: hsl(30, 10%, 34%);
+}
+.defrant ul{
+    list-style-type: decimal;
+}
+
+
